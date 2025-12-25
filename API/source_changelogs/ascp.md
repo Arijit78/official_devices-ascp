@@ -1,0 +1,59 @@
+# ASCP v4.3 - Android 16 QPR-1 Changelogs
+
+- System
+  - Ascp v4.3 official update.
+  - Integrated December security patch.
+  - Integrated OTA updates support.
+
+- Animations
+  - Refined the qs expansion animation for smoother transition.
+  - Fixed janky animation with multiple notifications.
+
+- Improvements
+  - Fixed the integrity spoofing.
+  - Fixed the minor jitters throughout the UI.
+  - Added auto pin confirmation option for 4 digit pin/pass.
+  - Added Material express UI in gamespace along with auto game detection.
+  - Added split shade in Qs in landscape mode.
+  - Added new refresh rate implementation.
+  - Moved blur toggle into display options.
+  - Added screen lock timeout settings.
+  - Added multiple dns providers.
+  - Fixed imei info and radio info.
+  - Added volume qs tile.
+  - Added data switch qs tile.
+
+- Features/Addons
+  - Added Faceunlock biometrics feature.
+  - Added lmofreeform and sidebar feature (available in apps settings).
+  - Added advanced color balanced options (available in display settings).
+  - Added Pure dark mode feature.
+  - Added long press power button to toggle flashlight.
+  - Keybox import feature is moved to apps settings.
+  - Implemented cutout force full screen.
+  - Added window secure ignore flag feature.
+  - Added wallpaper effects feature.
+  - Added app clone feature.
+  - Integrated revanced feature with fixes to previous implementation. (Dropped)
+  - Added Gphotos spoof (by default on).
+  - Added Hide developer option status feature.
+  - Added Hide screen capture status feature.
+  - Added No storage restrict feature.
+  - Added Applock feature (hide from launcher too).
+  - Added smart pause feature.
+  - Added hide applist feature.
+  - Added idle manager toggle in battery section.
+  - Added Statusbar network traffic indicator.
+  - Added support for Qs tile flashlight strength.
+  - Added Dim wallpaper feature (inside dark mode).
+  - Added separate ringtone for both sim cards.
+  - Added smallest width selection under display settings.
+  - Added option to disable fingerprint lockout.
+  - Added clipboard auto clear feature.
+  - Added feature to override mock location restriction
+
+- Many under the hood changes and improvements 😌, better explore 😇.
+
+- **NOTE:** Releases for official devices will start soon..
+
+
